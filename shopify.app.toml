@@ -2,7 +2,7 @@
 
 name = "regional-account-app"
 client_id = "d3c1b0227731590fed32495c420f8182"
-application_url = "https://agriculture-fought-road-pac.trycloudflare.com"
+application_url = "https://fe-cornell-range-transition.trycloudflare.com"
 embedded = true
 
 [access_scopes]
@@ -11,9 +11,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://agriculture-fought-road-pac.trycloudflare.com/auth/callback",
-  "https://agriculture-fought-road-pac.trycloudflare.com/auth/shopify/callback",
-  "https://agriculture-fought-road-pac.trycloudflare.com/api/auth/callback"
+  "https://fe-cornell-range-transition.trycloudflare.com/auth/callback",
+  "https://fe-cornell-range-transition.trycloudflare.com/auth/shopify/callback",
+  "https://fe-cornell-range-transition.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
